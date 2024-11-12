@@ -9,5 +9,5 @@ A landing page for an Insurance Agency.
 * Javascript
 * [ScrollReveal](https://scrollrevealjs.org)
 
-Live url: https://victorakpan-dev.github.io/circle-trust
+Live url: https://naurelius.github.io/circle-trust
 
